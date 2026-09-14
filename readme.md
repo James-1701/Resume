@@ -1,3 +1,3 @@
-![Resume](https://james-1701.github.io/resume/resume.png)
+![Resume](https://James-1701.github.io/Resume/resume.png)
 
-[PDF Version](https://james-1701.github.io/resume/resume.pdf)
+[PDF Version](https://James-1701.github.io/Resume/resume.pdf)
